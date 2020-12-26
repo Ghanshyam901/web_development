@@ -1,2 +1,2 @@
-# web_development
-https://github.com/Ghanshyam901/Web-Development.git
+
+https://ghanshyam901.github.io/web_development/
